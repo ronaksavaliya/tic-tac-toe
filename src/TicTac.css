@@ -1,0 +1,13 @@
+.square {
+    display: flex;
+    margin-top: 100px;
+    height: 150px;
+    flex-wrap: wrap;
+    width: 150px;
+    margin-left: 100px;
+}
+
+.square button {
+    height: 50px;
+    width: 50px;
+}
